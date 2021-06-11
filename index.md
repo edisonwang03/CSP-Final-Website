@@ -16,7 +16,9 @@ Here is a picture of me:
 
 Some social media I use include Instagram, Discord, and Snapchat. Click on each of the social media app icons to see my social media information.
 
-[![instagram](images/instagram.png "Instagram")](https://edisonwang03.github.io/CSP-Final-Website/instagram) [![discord](images/discord.jpg "Discord")](https://edisonwang03.github.io/CSP-Final-Website/discord) [![snapchat](images/snapchat.png "Snapchat")](https://edisonwang03.github.io/CSP-Final-Website/snapchat)
+[![instagram](images/instagram.png "Instagram")](https://edisonwang03.github.io/CSP-Final-Website/instagram) 
+[![discord](images/discord.jpg "Discord")](https://edisonwang03.github.io/CSP-Final-Website/discord) 
+[![snapchat](images/snapchat.png "Snapchat")](https://edisonwang03.github.io/CSP-Final-Website/snapchat)
 
 ## Brag Sheet
 
