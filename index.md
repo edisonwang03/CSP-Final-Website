@@ -12,6 +12,8 @@ My name is Edison Wang.
 
 Here is a picture of me:
 
+![self](images/self-picture.jpg "Picture of myself")
+
 ## Social Media
 
 Some social media I use include Instagram, Discord, and Snapchat. Click on each of the social media app icons to see my social media information.
