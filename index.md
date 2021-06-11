@@ -1,4 +1,4 @@
-# Welcome to my GitHub Pages site using Jekyll!
+# All About Me
 
 This is my final project for AP Computer Science Principles. In this project, I am required to show my name, a picture of myself, my social media, and my brag sheet. Here is the aforementioned information:
 
