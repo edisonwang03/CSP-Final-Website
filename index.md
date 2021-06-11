@@ -1,26 +1,24 @@
 # Welcome to my GitHub Pages site using Jekyll!
 
-This is a project for AP Computer Science Principles, titled "Make A Website". In the project, I must show my name, a picture, my social media information, and a brag sheet. Enjoy!
+This is my final project for AP Computer Science Principles. In this project, I am required to show my name, a picture of myself, my social media, and my brag sheet. Here is the aforementioned information:
 
 ---
 
-## What is my name?
+## Name
 
 My name is Edison Wang.
 
-## What do I look like?
+## Picture
 
 Here is a picture of me:
 
-## What social media do I use?
+## Social Media
 
-Some social media I use include instagram, discord, and snapchat. Click on each of the social media app icons to see my social media information.
+Some social media I use include Instagram, Discord, and Snapchat. Click on each of the social media app icons to see my social media information.
 
-## What does your brag sheet look like?
+[![instagram](images/instagram.png "Instagram")](https://edisonwang03.github.io/CSP-Final-Website/instagram) [![discord](images/discord.jpg "Discord")](https://edisonwang03.github.io/CSP-Final-Website/discord) [![snapchat](images/snapchat.png "Snapchat")](https://edisonwang03.github.io/CSP-Final-Website/snapchat)
 
-My brag sheet looks like this:
-
----
+## Brag Sheet
 
 - **Academics**
   - Has participated in 7 total AP classes so far and is currently taking 5 in junior year
